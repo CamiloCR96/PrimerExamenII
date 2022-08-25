@@ -1,0 +1,1 @@
+es ka unidad de almacenamiento de la bios para lectura o escritura o ambas

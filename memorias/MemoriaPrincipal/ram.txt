@@ -1,0 +1,2 @@
+es la encqargada de almacenar trabajos o tareas
+de forma volatil 
